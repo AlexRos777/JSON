@@ -1,17 +1,9 @@
 {
-	"Hard_skills":[
-		"GitBash",
-		"Structure json",
-		"Structure XML",
-		"Codes HTTPS",
-		"Postman",
-		"DevTools"
-	],
-	"Soft_skills":[
-		"Self learning",
-		"Search in google",
-		"Teamwork"
-	]
+		"Name":"AlexRos",
+		"Age": "35",
+		"Pets":"nill",
+		"Salary":"1000$"
+		
 }
 
 
